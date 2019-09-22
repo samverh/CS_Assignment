@@ -1,7 +1,10 @@
 # CS Assignment 3
 **Course:** Seminars Computational Science
+
 **Student:** Sam Verhezen
+
 **Student number:** 11259566
+
 **Date:** 23 September 2019
 
 ## 1) Google Scholar

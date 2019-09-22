@@ -6,3 +6,8 @@
 - JT Harvey, Applied Ergonomics, 2002: "An analysis of the forces required to drag sheep over various surfaces"
 - DW Ziegler et al., 2005: "The neurocognitive effects of alcohol on adolescents and college students"
 
+## 2) Correlation plot
+The following plot shows the relationship between the number of WO students and the beer consumption in the Netherlands from the year 2006 to 2018.
+ ![alt text](https://github.com/samverh/CS_Assignment/blob/master/plot.png "Correlation plot")
+
+An increase in the number of students corresponds to increased beer consumption in the Netherlands.

@@ -46,7 +46,7 @@ plt.show()
 ```
 
 
-![png](Untitled_files/Untitled_2_0.png)
+![png](https://github.com/samverh/CS_Assignment/blob/master/Untitled_files/Untitled_2_0.png)
 
 
 The execution time is decreases exponentially with an increasing amount of threads. At around 24 threads, the lowest execution time can be noticed. Therefore, it is most efficient for the average node of Cartesius to have 24 threads.
@@ -73,5 +73,5 @@ plt.show()
 ```
 
 
-![png](Untitled_files/Untitled_5_0.png)
+![png](https://github.com/samverh/CS_Assignment/blob/master/Untitled_files/Untitled_5_0.png)
 

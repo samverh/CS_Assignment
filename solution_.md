@@ -1,5 +1,11 @@
 # CS Assignment 3
-**Sam Verhezen**
+**Course:** Seminars Computational Science
+
+**Student:** Sam Verhezen
+
+**Student number:** 11259566
+
+**Date:** 23 September 2019
 
 ## 1) Google Scholar
 - MCC Van Dyke et al., 2019: "Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens"
